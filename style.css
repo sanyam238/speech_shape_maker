@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+h1{
+    color:blue;
+}
+
+span{
+    font-size: 27px;
+    color: aqua;
+}
+
+canvas{
+    background-color: pink;
+    border-radius: 20px;
+}
